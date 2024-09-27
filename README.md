@@ -38,13 +38,17 @@ Using the dataset provided, your task is to explore the data and produce meaning
 - Communicate your findings through well-documented code and meaningful visualizations.
 
 ## Submission Guidelines
-If you have any questions while working on the assignment, feel free to contact us at `data[at]olyx.nl`. Please push your code to a private GitHub repository and share access with the user `charlesdupont23`. Below are some additional guidelines and expectations for the submission:
+If you have any questions while working on the assignment, feel free to contact us at `data[at]olyx.nl`. 
+
+Please push your code to a **private** GitHub repository and share access with the user `charlesdupont23`. 
+
+Below are some additional guidelines and expectations for the submission:
 - You should submit a Jupyter notebook (.ipynb) containing all of the code used in your analysis.
 - Include explanations and commentary in your notebook where relevant, as if you were explaining your process and findings to a stakeholder unfamiliar with the technical details.
 - Feel free to use any external libraries or tools to enhance your analysis and visualization.
 - Your notebook should be well-organized, readable, and include the following:
-    - An introduction explaining your approach and methodology
+    - A short introduction explaining your approach and methodology
     - One or more sections presenting your analysis, visualizations, and insights.
-    - A conclusion summarizing your findings.
+    - A brief conclusion summarizing your findings.
 
 **We hope you enjoy working on the assignment and wish you good luck!**
